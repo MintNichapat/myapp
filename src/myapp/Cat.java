@@ -1,4 +1,4 @@
 package myapp;
+public class Cat extends Animal{
 
-public class Cat implements Animal{
 }
